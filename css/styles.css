@@ -11310,3 +11310,8 @@ html {
   background-repeat: no-repeat;
   min-height: 15rem;
 }
+
+.not-available{
+  color: red;
+  font-size: 20px;
+}
